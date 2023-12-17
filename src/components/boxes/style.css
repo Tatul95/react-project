@@ -1,0 +1,20 @@
+.div-box{
+    margin-top: 5px;
+    display: flex;
+    gap: 10px;
+    padding: 0 15px;
+}
+
+.box-one{
+    max-width: 300px;
+    width: 100%;
+    background: #F6F0E0;
+    min-height: 300px;
+}
+
+.box-content{
+    max-width: 600px;
+    width: 100%;
+    background: #CCC8B3;
+    min-height: 300px;
+}

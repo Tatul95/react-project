@@ -1,0 +1,11 @@
+header{
+    margin: 0 15px;
+    min-height: 100px;
+    background-color: #F3F2ED;
+    max-width: 1520px;
+    width: 100%;
+}
+
+header a{
+    color: black;
+}
